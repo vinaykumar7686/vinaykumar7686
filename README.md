@@ -6,3 +6,5 @@
 
 
 ![Vinay Kumar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vinaykumar7686&show_icons=true)
+ 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar7686&hide=CSS,HTML">
