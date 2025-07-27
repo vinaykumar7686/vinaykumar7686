@@ -9,4 +9,3 @@
 - 📫 Reach me at: vinaykumarvk.8866@gmail.com  
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinaykumar7686/)
 
-![Vinay Kumar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vinaykumar7686&show_icons=true)
